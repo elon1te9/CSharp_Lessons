@@ -1,0 +1,7 @@
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn11\Practic 11\Exx3\bin\Debug\Exx3.exe.config
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn11\Practic 11\Exx3\bin\Debug\Exx3.exe
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn11\Practic 11\Exx3\bin\Debug\Exx3.pdb
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn11\Practic 11\Exx3\obj\Debug\Exx3.csproj.AssemblyReference.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn11\Practic 11\Exx3\obj\Debug\Exx3.csproj.CoreCompileInputs.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn11\Practic 11\Exx3\obj\Debug\Exx3.exe
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn11\Practic 11\Exx3\obj\Debug\Exx3.pdb

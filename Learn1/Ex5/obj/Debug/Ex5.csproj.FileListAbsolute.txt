@@ -1,0 +1,7 @@
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn1\Ex5\bin\Debug\Ex5.exe.config
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn1\Ex5\bin\Debug\Ex5.exe
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn1\Ex5\bin\Debug\Ex5.pdb
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn1\Ex5\obj\Debug\Ex5.csproj.AssemblyReference.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn1\Ex5\obj\Debug\Ex5.csproj.CoreCompileInputs.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn1\Ex5\obj\Debug\Ex5.exe
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn1\Ex5\obj\Debug\Ex5.pdb

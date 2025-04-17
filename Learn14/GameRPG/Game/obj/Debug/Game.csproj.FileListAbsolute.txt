@@ -1,0 +1,7 @@
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn14\GameRPG\Game\bin\Debug\Game.exe.config
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn14\GameRPG\Game\bin\Debug\Game.exe
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn14\GameRPG\Game\bin\Debug\Game.pdb
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn14\GameRPG\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn14\GameRPG\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn14\GameRPG\Game\obj\Debug\Game.exe
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn14\GameRPG\Game\obj\Debug\Game.pdb

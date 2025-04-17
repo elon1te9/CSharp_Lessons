@@ -1,0 +1,7 @@
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn9\Practitc9\ZadachkiNaPare\bin\Debug\ZadachkiNaPare.exe.config
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn9\Practitc9\ZadachkiNaPare\bin\Debug\ZadachkiNaPare.exe
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn9\Practitc9\ZadachkiNaPare\bin\Debug\ZadachkiNaPare.pdb
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn9\Practitc9\ZadachkiNaPare\obj\Debug\ZadachkiNaPare.csproj.AssemblyReference.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn9\Practitc9\ZadachkiNaPare\obj\Debug\ZadachkiNaPare.csproj.CoreCompileInputs.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn9\Practitc9\ZadachkiNaPare\obj\Debug\ZadachkiNaPare.exe
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn9\Practitc9\ZadachkiNaPare\obj\Debug\ZadachkiNaPare.pdb

@@ -1,0 +1,7 @@
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn14\Practic14\Ex\bin\Debug\Ex.exe.config
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn14\Practic14\Ex\bin\Debug\Ex.exe
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn14\Practic14\Ex\bin\Debug\Ex.pdb
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn14\Practic14\Ex\obj\Debug\Ex.csproj.AssemblyReference.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn14\Practic14\Ex\obj\Debug\Ex.csproj.CoreCompileInputs.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn14\Practic14\Ex\obj\Debug\Ex.exe
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn14\Practic14\Ex\obj\Debug\Ex.pdb

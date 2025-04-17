@@ -1,0 +1,7 @@
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn2\Practic2\Razvilka3\bin\Debug\Razvilka3.exe.config
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn2\Practic2\Razvilka3\bin\Debug\Razvilka3.exe
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn2\Practic2\Razvilka3\bin\Debug\Razvilka3.pdb
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn2\Practic2\Razvilka3\obj\Debug\Razvilka3.csproj.AssemblyReference.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn2\Practic2\Razvilka3\obj\Debug\Razvilka3.csproj.CoreCompileInputs.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn2\Practic2\Razvilka3\obj\Debug\Razvilka3.exe
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn2\Practic2\Razvilka3\obj\Debug\Razvilka3.pdb

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn7\\Ex1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A29D45C9-E7A1-4CF6-9F4D-21D869657DB7}|Ex5\\Ex5.csproj|C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn7\\Ex1\\ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29D45C9-E7A1-4CF6-9F4D-21D869657DB7}|Ex5\\Ex5.csproj|solutionrelative:ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEAC900E-9CFB-4C99-B241-C65DF24A5DC8}|Ex4\\Ex4.csproj|c:\\users\\vovas\\desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u043E\u0430\u0438\u043F\\learn7\\ex1\\ex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEAC900E-9CFB-4C99-B241-C65DF24A5DC8}|Ex4\\Ex4.csproj|solutionrelative:ex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D6D150-B7A2-4B5C-ABBC-EAD1E9DE72D9}|Ex3\\Ex3.csproj|C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn7\\Ex1\\ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D6D150-B7A2-4B5C-ABBC-EAD1E9DE72D9}|Ex3\\Ex3.csproj|solutionrelative:ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F03D14D-3474-481D-90E9-AF9838FA93CB}|Ex2\\Ex2.csproj|C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn7\\Ex1\\ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F03D14D-3474-481D-90E9-AF9838FA93CB}|Ex2\\Ex2.csproj|solutionrelative:ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8E4617-6A89-436B-94E0-0FF3A28047F4}|Practic7\\Ex1.csproj|C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn7\\Ex1\\practic7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8E4617-6A89-436B-94E0-0FF3A28047F4}|Practic7\\Ex1.csproj|solutionrelative:practic7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8E4617-6A89-436B-94E0-0FF3A28047F4}|Practic7\\Ex1.csproj|c:\\users\\vovas\\desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u043E\u0430\u0438\u043F\\learn7\\ex1\\practic7\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4B8E4617-6A89-436B-94E0-0FF3A28047F4}|Practic7\\Ex1.csproj|solutionrelative:practic7\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn7\\Ex1\\Practic7\\App.config",
+              "RelativeDocumentMoniker": "Practic7\\App.config",
+              "ToolTip": "C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn7\\Ex1\\Practic7\\App.config",
+              "RelativeToolTip": "Practic7\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-12T11:00:56.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn7\\Ex1\\Ex5\\Program.cs",
+              "RelativeDocumentMoniker": "Ex5\\Program.cs",
+              "ToolTip": "C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn7\\Ex1\\Ex5\\Program.cs",
+              "RelativeToolTip": "Ex5\\Program.cs",
+              "ViewState": "AgIAACcAAAAAUGZmZmbGvxAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:11:46.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn7\\Ex1\\Ex4\\Program.cs",
+              "RelativeDocumentMoniker": "Ex4\\Program.cs",
+              "ToolTip": "C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn7\\Ex1\\Ex4\\Program.cs",
+              "RelativeToolTip": "Ex4\\Program.cs",
+              "ViewState": "AgIAACEAAADoaGZmZiYowD0AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:11:22.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn7\\Ex1\\Ex3\\Program.cs",
+              "RelativeDocumentMoniker": "Ex3\\Program.cs",
+              "ToolTip": "C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn7\\Ex1\\Ex3\\Program.cs",
+              "RelativeToolTip": "Ex3\\Program.cs",
+              "ViewState": "AgIAABgAAABAZWZmZmYswCcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:11:12.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn7\\Ex1\\Ex2\\Program.cs",
+              "RelativeDocumentMoniker": "Ex2\\Program.cs",
+              "ToolTip": "C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn7\\Ex1\\Ex2\\Program.cs",
+              "RelativeToolTip": "Ex2\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIApwDEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:03:13.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn7\\Ex1\\Practic7\\Program.cs",
+              "RelativeDocumentMoniker": "Practic7\\Program.cs",
+              "ToolTip": "C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn7\\Ex1\\Practic7\\Program.cs",
+              "RelativeToolTip": "Practic7\\Program.cs",
+              "ViewState": "AgIAABUAAAAAmpmZmZkMwCkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:59:04.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

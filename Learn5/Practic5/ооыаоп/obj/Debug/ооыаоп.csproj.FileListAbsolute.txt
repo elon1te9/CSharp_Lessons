@@ -1,0 +1,7 @@
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn5\Practic5\ооыаоп\bin\Debug\ооыаоп.exe.config
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn5\Practic5\ооыаоп\bin\Debug\ооыаоп.exe
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn5\Practic5\ооыаоп\bin\Debug\ооыаоп.pdb
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn5\Practic5\ооыаоп\obj\Debug\ооыаоп.csproj.AssemblyReference.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn5\Practic5\ооыаоп\obj\Debug\ооыаоп.csproj.CoreCompileInputs.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn5\Practic5\ооыаоп\obj\Debug\ооыаоп.exe
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn5\Practic5\ооыаоп\obj\Debug\ооыаоп.pdb

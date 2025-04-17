@@ -1,0 +1,7 @@
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn1\Ex3\bin\Debug\Ex3.exe.config
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn1\Ex3\bin\Debug\Ex3.exe
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn1\Ex3\bin\Debug\Ex3.pdb
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn1\Ex3\obj\Debug\Ex3.csproj.AssemblyReference.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn1\Ex3\obj\Debug\Ex3.csproj.CoreCompileInputs.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn1\Ex3\obj\Debug\Ex3.exe
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn1\Ex3\obj\Debug\Ex3.pdb

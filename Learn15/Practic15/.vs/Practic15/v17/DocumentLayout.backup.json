@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn15\\Practic15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A8E643-342B-49C7-AABF-80A888B4DA18}|Theory\\Theory.csproj|C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn15\\Practic15\\theory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A8E643-342B-49C7-AABF-80A888B4DA18}|Theory\\Theory.csproj|solutionrelative:theory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A8E643-342B-49C7-AABF-80A888B4DA18}|Theory\\Theory.csproj|C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn15\\Practic15\\theory\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A8E643-342B-49C7-AABF-80A888B4DA18}|Theory\\Theory.csproj|solutionrelative:theory\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A8E643-342B-49C7-AABF-80A888B4DA18}|Theory\\Theory.csproj|C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn15\\Practic15\\theory\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A8E643-342B-49C7-AABF-80A888B4DA18}|Theory\\Theory.csproj|solutionrelative:theory\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FA0DB1-19AB-4105-A120-B3755CDCAA01}|Ex1\\Ex1.csproj|c:\\users\\vovas\\desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u043E\u0430\u0438\u043F\\learn15\\practic15\\ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1FA0DB1-19AB-4105-A120-B3755CDCAA01}|Ex1\\Ex1.csproj|solutionrelative:ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FA0DB1-19AB-4105-A120-B3755CDCAA01}|Ex1\\Ex1.csproj|C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn15\\Practic15\\ex1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E1FA0DB1-19AB-4105-A120-B3755CDCAA01}|Ex1\\Ex1.csproj|solutionrelative:ex1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn15\\Practic15\\Ex1\\App.config",
+              "RelativeDocumentMoniker": "Ex1\\App.config",
+              "ToolTip": "C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn15\\Practic15\\Ex1\\App.config",
+              "RelativeToolTip": "Ex1\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-04T09:32:15.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn15\\Practic15\\Theory\\Class1.cs",
+              "RelativeDocumentMoniker": "Theory\\Class1.cs",
+              "ToolTip": "C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn15\\Practic15\\Theory\\Class1.cs",
+              "RelativeToolTip": "Theory\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T20:30:36.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn15\\Practic15\\Ex1\\Program.cs",
+              "RelativeDocumentMoniker": "Ex1\\Program.cs",
+              "ToolTip": "C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn15\\Practic15\\Ex1\\Program.cs",
+              "RelativeToolTip": "Ex1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T20:23:53.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn15\\Practic15\\Theory\\Student.cs",
+              "RelativeDocumentMoniker": "Theory\\Student.cs",
+              "ToolTip": "C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn15\\Practic15\\Theory\\Student.cs",
+              "RelativeToolTip": "Theory\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:41:10.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn15\\Practic15\\Theory\\Program.cs",
+              "RelativeDocumentMoniker": "Theory\\Program.cs",
+              "ToolTip": "C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn15\\Practic15\\Theory\\Program.cs",
+              "RelativeToolTip": "Theory\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:40:17.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

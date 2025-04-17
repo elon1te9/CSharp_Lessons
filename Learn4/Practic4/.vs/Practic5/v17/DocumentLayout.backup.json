@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn5\\Practic5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E72E56-2FD5-4900-97B8-C3F87324112D}|Cikl24\\Cikl24.csproj|c:\\users\\vovas\\desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u043E\u0430\u0438\u043F\\learn5\\practic5\\cikl24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E72E56-2FD5-4900-97B8-C3F87324112D}|Cikl24\\Cikl24.csproj|solutionrelative:cikl24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5645271E-4078-4637-BDC6-A8FEB6254F2B}|Cikl22\\Cikl22.csproj|c:\\users\\vovas\\desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u043E\u0430\u0438\u043F\\learn5\\practic5\\cikl22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5645271E-4078-4637-BDC6-A8FEB6254F2B}|Cikl22\\Cikl22.csproj|solutionrelative:cikl22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5645271E-4078-4637-BDC6-A8FEB6254F2B}|Cikl22\\Cikl22.csproj|c:\\users\\vovas\\desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u043E\u0430\u0438\u043F\\learn5\\practic5\\cikl22\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5645271E-4078-4637-BDC6-A8FEB6254F2B}|Cikl22\\Cikl22.csproj|solutionrelative:cikl22\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn5\\Practic5\\Cikl22\\App.config",
+              "RelativeDocumentMoniker": "Cikl22\\App.config",
+              "ToolTip": "C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn5\\Practic5\\Cikl22\\App.config",
+              "RelativeToolTip": "Cikl22\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-07T10:31:38.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn5\\Practic5\\Cikl24\\Program.cs",
+              "RelativeDocumentMoniker": "Cikl24\\Program.cs",
+              "ToolTip": "C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn5\\Practic5\\Cikl24\\Program.cs",
+              "RelativeToolTip": "Cikl24\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:50:36.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn5\\Practic5\\Cikl22\\Program.cs",
+              "RelativeDocumentMoniker": "Cikl22\\Program.cs",
+              "ToolTip": "C:\\Users\\vovas\\Desktop\\\u0442\u0435\u0445\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2\u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F\\Learn5\\Practic5\\Cikl22\\Program.cs",
+              "RelativeToolTip": "Cikl22\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:50:19.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

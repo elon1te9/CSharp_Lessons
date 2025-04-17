@@ -1,0 +1,7 @@
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn5\Practic5\Cikl23\bin\Debug\Cikl23.exe.config
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn5\Practic5\Cikl23\bin\Debug\Cikl23.exe
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn5\Practic5\Cikl23\bin\Debug\Cikl23.pdb
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn5\Practic5\Cikl23\obj\Debug\Cikl23.csproj.AssemblyReference.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn5\Practic5\Cikl23\obj\Debug\Cikl23.csproj.CoreCompileInputs.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn5\Practic5\Cikl23\obj\Debug\Cikl23.exe
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn5\Practic5\Cikl23\obj\Debug\Cikl23.pdb

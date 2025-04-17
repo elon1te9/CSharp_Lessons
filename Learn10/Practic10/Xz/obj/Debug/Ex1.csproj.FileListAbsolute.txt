@@ -1,0 +1,7 @@
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn10\Practic10\Xz\bin\Debug\Xz.exe.config
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn10\Practic10\Xz\bin\Debug\Xz.exe
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn10\Practic10\Xz\bin\Debug\Xz.pdb
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn10\Practic10\Xz\obj\Debug\Ex1.csproj.AssemblyReference.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn10\Practic10\Xz\obj\Debug\Ex1.csproj.CoreCompileInputs.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn10\Practic10\Xz\obj\Debug\Xz.exe
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn10\Practic10\Xz\obj\Debug\Xz.pdb

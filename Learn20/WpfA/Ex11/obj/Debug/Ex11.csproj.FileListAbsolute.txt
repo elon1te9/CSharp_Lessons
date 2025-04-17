@@ -1,0 +1,15 @@
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn20\WpfA\Ex11\bin\Debug\Ex11.exe.config
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn20\WpfA\Ex11\bin\Debug\Ex11.exe
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn20\WpfA\Ex11\bin\Debug\Ex11.pdb
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn20\WpfA\Ex11\obj\Debug\Ex11.csproj.AssemblyReference.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn20\WpfA\Ex11\obj\Debug\MainWindow.g.cs
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn20\WpfA\Ex11\obj\Debug\App.g.cs
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn20\WpfA\Ex11\obj\Debug\Ex11_MarkupCompile.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn20\WpfA\Ex11\obj\Debug\Ex11_MarkupCompile.lref
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn20\WpfA\Ex11\obj\Debug\MainWindow.baml
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn20\WpfA\Ex11\obj\Debug\Ex11.g.resources
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn20\WpfA\Ex11\obj\Debug\Ex11.Properties.Resources.resources
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn20\WpfA\Ex11\obj\Debug\Ex11.csproj.GenerateResource.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn20\WpfA\Ex11\obj\Debug\Ex11.csproj.CoreCompileInputs.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn20\WpfA\Ex11\obj\Debug\Ex11.exe
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn20\WpfA\Ex11\obj\Debug\Ex11.pdb

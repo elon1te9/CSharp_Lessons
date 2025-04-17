@@ -1,0 +1,7 @@
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Chellenge\eX1\bin\Debug\eX1.exe.config
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Chellenge\eX1\bin\Debug\eX1.exe
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Chellenge\eX1\bin\Debug\eX1.pdb
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Chellenge\eX1\obj\Debug\eX1.csproj.AssemblyReference.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Chellenge\eX1\obj\Debug\eX1.csproj.CoreCompileInputs.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Chellenge\eX1\obj\Debug\eX1.exe
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Chellenge\eX1\obj\Debug\eX1.pdb

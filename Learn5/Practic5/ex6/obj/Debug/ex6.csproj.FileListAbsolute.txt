@@ -1,0 +1,14 @@
+D:\PRACTIKAOAIP\practicaoaip5\ex6\obj\Debug\ex6.csproj.AssemblyReference.cache
+D:\PRACTIKAOAIP\practicaoaip5\ex6\obj\Debug\ex6.csproj.CoreCompileInputs.cache
+D:\PRACTIKAOAIP\practicaoaip5\ex6\bin\Debug\ex6.exe.config
+D:\PRACTIKAOAIP\practicaoaip5\ex6\bin\Debug\ex6.exe
+D:\PRACTIKAOAIP\practicaoaip5\ex6\bin\Debug\ex6.pdb
+D:\PRACTIKAOAIP\practicaoaip5\ex6\obj\Debug\ex6.exe
+D:\PRACTIKAOAIP\practicaoaip5\ex6\obj\Debug\ex6.pdb
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn5\Practic5\ex6\bin\Debug\ex6.exe.config
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn5\Practic5\ex6\bin\Debug\ex6.exe
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn5\Practic5\ex6\bin\Debug\ex6.pdb
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn5\Practic5\ex6\obj\Debug\ex6.csproj.AssemblyReference.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn5\Practic5\ex6\obj\Debug\ex6.csproj.CoreCompileInputs.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn5\Practic5\ex6\obj\Debug\ex6.exe
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn5\Practic5\ex6\obj\Debug\ex6.pdb

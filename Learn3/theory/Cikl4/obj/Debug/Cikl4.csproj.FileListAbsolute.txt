@@ -1,0 +1,7 @@
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn3\theory\Cikl4\bin\Debug\Cikl4.exe.config
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn3\theory\Cikl4\bin\Debug\Cikl4.exe
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn3\theory\Cikl4\bin\Debug\Cikl4.pdb
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn3\theory\Cikl4\obj\Debug\Cikl4.csproj.AssemblyReference.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn3\theory\Cikl4\obj\Debug\Cikl4.csproj.CoreCompileInputs.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn3\theory\Cikl4\obj\Debug\Cikl4.exe
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn3\theory\Cikl4\obj\Debug\Cikl4.pdb

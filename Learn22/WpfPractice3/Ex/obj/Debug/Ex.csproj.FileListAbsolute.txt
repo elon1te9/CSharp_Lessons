@@ -1,0 +1,15 @@
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn22\WpfPractice3\Ex\obj\Debug\Ex.csproj.AssemblyReference.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn22\WpfPractice3\Ex\obj\Debug\MainWindow.g.cs
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn22\WpfPractice3\Ex\obj\Debug\App.g.cs
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn22\WpfPractice3\Ex\obj\Debug\Ex_MarkupCompile.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn22\WpfPractice3\Ex\obj\Debug\Ex_MarkupCompile.lref
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn22\WpfPractice3\Ex\bin\Debug\Ex.exe.config
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn22\WpfPractice3\Ex\bin\Debug\Ex.exe
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn22\WpfPractice3\Ex\bin\Debug\Ex.pdb
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn22\WpfPractice3\Ex\obj\Debug\MainWindow.baml
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn22\WpfPractice3\Ex\obj\Debug\Ex.g.resources
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn22\WpfPractice3\Ex\obj\Debug\Ex.Properties.Resources.resources
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn22\WpfPractice3\Ex\obj\Debug\Ex.csproj.GenerateResource.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn22\WpfPractice3\Ex\obj\Debug\Ex.csproj.CoreCompileInputs.cache
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn22\WpfPractice3\Ex\obj\Debug\Ex.exe
+C:\Users\vovas\Desktop\тех\документы\2курс\ОАИП\Learn22\WpfPractice3\Ex\obj\Debug\Ex.pdb
