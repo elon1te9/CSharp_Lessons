@@ -17,8 +17,8 @@
                         <TextBox x:Name="AlarmMinuteTextBox" Width="40" Text="00"/>
                     </StackPanel>
 
-                    <CheckBox x:Name="EnableDatePickerCheckBox" Content="Установить конкретную дату" Margin="0,0,0,5"/>
-                    <DatePicker x:Name="AlarmDatePicker" IsEnabled="{Binding IsChecked, ElementName=EnableDatePickerCheckBox}" Margin="0,0,0,10"/>
+                    <CheckBox  x:Name="EnableDatePickerCheckBox" Content="Установить конкретную дату" Margin="0,0,0,5" Checked="EnableDatePickerCheckBox_Checked" Unchecked="EnableDatePickerCheckBox_Unchecked"/>
+                    <DatePicker x:Name="AlarmDatePicker"  Margin="0,0,0,10"/>
 
                     <Button x:Name="SetAlarmButton" Content="Установить будильник" Click="SetAlarmButton_Click" Margin="0,0,0,10"/>
                     <Button x:Name="CancelAlarmButton" Content="Отключить будильник" Click="CancelAlarmButton_Click" IsEnabled="False" Margin="0,0,0,10"/>

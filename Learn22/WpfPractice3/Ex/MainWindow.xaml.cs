@@ -1,13 +1,14 @@
 ﻿using System;
 using System.Windows;
+using System.Windows.Controls;
 using System.Windows.Threading;
 
 namespace Ex
 {
     public partial class MainWindow : Window
     {
-        private DispatcherTimer mainTimer; // Главный таймер для обновления интерфейса и проверок
-        private DateTime? alarmTime; // Время срабатывания будильника (nullable, т.к. может быть не установлен)
+        private DispatcherTimer mainTimer; // Главный таймер 
+        private DateTime? alarmTime; // Время срабатывания будильника                                                                                                                                                                                                                                                                          
         private bool isAlarmSet = false; // Флаг, установлен ли будильник
 
         private TimeSpan timerDuration; // Общая длительность таймера
@@ -43,7 +44,7 @@ namespace Ex
 
                 DateTime now = DateTime.Now;
                 DateTime today = now.Date;
-                DateTime selectedTime = today.AddHours(hour).AddMinutes(minute); 
+                DateTime selectedTime = today.AddHours(hour).AddMinutes(minute);
 
                 DateTime targetDateTime;
 
@@ -68,7 +69,7 @@ namespace Ex
                         targetDateTime = selectedDate.AddHours(hour).AddMinutes(minute);
                     }
                 }
-                else 
+                else
                 {
                     if (selectedTime <= now)
                     {
@@ -77,7 +78,7 @@ namespace Ex
                     }
                     else
                     {
-                        targetDateTime = selectedTime; 
+                        targetDateTime = selectedTime;
                     }
                 }
 
@@ -99,7 +100,7 @@ namespace Ex
         {
             isAlarmSet = false;
             alarmTime = null;
-            UpdateAlarmStatus(); 
+            UpdateAlarmStatus();
 
             SetAlarmControlsEnabled(true);
             CancelAlarmButton.IsEnabled = false;
@@ -135,7 +136,7 @@ namespace Ex
             AlarmHourTextBox.IsEnabled = isEnabled;
             AlarmMinuteTextBox.IsEnabled = isEnabled;
             EnableDatePickerCheckBox.IsEnabled = isEnabled;
-            if (isEnabled) 
+            if (isEnabled)
             {
                 AlarmDatePicker.IsEnabled = EnableDatePickerCheckBox.IsChecked == true;
             }
@@ -149,12 +150,10 @@ namespace Ex
 
         private void StartTimerButton_Click(object sender, RoutedEventArgs e)
         {
-            // Парсинг времени из TextBox'ов
             if (int.TryParse(TimerHoursTextBox.Text, out int hours) &&
                 int.TryParse(TimerMinutesTextBox.Text, out int minutes) &&
                 int.TryParse(TimerSecondsTextBox.Text, out int seconds))
             {
-                // Валидация введенного времени
                 if (hours < 0 || minutes < 0 || minutes > 59 || seconds < 0 || seconds > 59)
                 {
                     MessageBox.Show("Пожалуйста, введите корректные неотрицательные значения (Минуты/Секунды: 0-59).", "Ошибка ввода");
@@ -163,18 +162,16 @@ namespace Ex
 
                 timerDuration = new TimeSpan(hours, minutes, seconds);
 
-                // Проверяем, что длительность больше нуля
                 if (timerDuration <= TimeSpan.Zero)
                 {
                     MessageBox.Show("Пожалуйста, установите длительность таймера больше нуля.", "Ошибка ввода");
                     return;
                 }
 
-                timerTimeLeft = timerDuration; // Устанавливаем начальное оставшееся время
-                isTimerRunning = true; // Устанавливаем флаг, что таймер запущен
-                UpdateTimerDisplay(); // Обновляем отображение таймера
+                timerTimeLeft = timerDuration;
+                isTimerRunning = true;
+                UpdateTimerDisplay();
 
-                // Блокируем контролы и кнопку старта, разблокируем кнопку стоп
                 SetTimerControlsEnabled(false);
                 StopTimerButton.IsEnabled = true;
             }
@@ -186,23 +183,19 @@ namespace Ex
 
         private void StopTimerButton_Click(object sender, RoutedEventArgs e)
         {
-            isTimerRunning = false; // Останавливаем таймер
-            timerTimeLeft = TimeSpan.Zero; // Сбрасываем время
-            UpdateTimerDisplay(); // Обновляем отображение
+            isTimerRunning = false;
+            timerTimeLeft = TimeSpan.Zero;
+            UpdateTimerDisplay();
 
-            // Разблокируем контролы и кнопку старта, блокируем кнопку стоп
             SetTimerControlsEnabled(true);
             StopTimerButton.IsEnabled = false;
         }
 
-        // Обновление отображения таймера
         private void UpdateTimerDisplay()
         {
-            // Форматируем оставшееся время в формат ЧЧ:ММ:СС
             TimerCountdownTextBlock.Text = $"{(int)timerTimeLeft.TotalHours:D2}:{timerTimeLeft.Minutes:D2}:{timerTimeLeft.Seconds:D2}";
         }
 
-        // Включение/отключение контролов таймера
         private void SetTimerControlsEnabled(bool isEnabled)
         {
             TimerHoursTextBox.IsEnabled = isEnabled;
@@ -211,56 +204,55 @@ namespace Ex
             StartTimerButton.IsEnabled = isEnabled;
         }
 
-        // --- Общий обработчик тика таймера ---
-
-        // Этот метод вызывается каждую секунду (согласно mainTimer.Interval)
         private void MainTimer_Tick(object sender, EventArgs e)
         {
             DateTime now = DateTime.Now;
 
-            // --- Проверка Будильника ---
             if (isAlarmSet && alarmTime.HasValue)
             {
                 TimeSpan timeLeft = alarmTime.Value - now;
 
-                // Если время будильника наступило или уже прошло
                 if (timeLeft.TotalSeconds <= 0)
                 {
-                    isAlarmSet = false; // Сбрасываем будильник
-                    MessageBox.Show("Вставай!", "Будильник!", MessageBoxButton.OK, MessageBoxImage.Information);
-                    alarmTime = null; // Очищаем время будильника
-                    // Разблокируем контролы и кнопку установки, блокируем кнопку отмены
+                    isAlarmSet = false;
+                    MessageBox.Show("Вставай!", "Будильник!");
+                    alarmTime = null;
                     SetAlarmControlsEnabled(true);
                     CancelAlarmButton.IsEnabled = false;
                 }
-                // Обновляем статус и оставшееся время будильника каждую секунду
+
                 UpdateAlarmStatus();
             }
 
-            // --- Обновление Таймера ---
             if (isTimerRunning)
             {
-                // Уменьшаем оставшееся время на интервал таймера (1 секунда)
                 timerTimeLeft = timerTimeLeft.Subtract(mainTimer.Interval);
 
-                // Если время вышло
                 if (timerTimeLeft <= TimeSpan.Zero)
                 {
-                    timerTimeLeft = TimeSpan.Zero; // Убедимся, что не отображается отрицательное время
-                    isTimerRunning = false; // Останавливаем таймер
-                    UpdateTimerDisplay(); // Обновляем отображение (покажет 00:00:00)
-                    MessageBox.Show("Время вышло!", "Таймер", MessageBoxButton.OK, MessageBoxImage.Information);
+                    timerTimeLeft = TimeSpan.Zero;
+                    isTimerRunning = false;
+                    UpdateTimerDisplay();
+                    MessageBox.Show("Время вышло!", "Таймер");
 
-                    // Разблокируем контролы и кнопку старта, блокируем кнопку стоп
                     SetTimerControlsEnabled(true);
                     StopTimerButton.IsEnabled = false;
                 }
                 else
                 {
-                    // Обновляем отображение оставшегося времени таймера каждую секунду
                     UpdateTimerDisplay();
                 }
             }
+        }
+
+        private void EnableDatePickerCheckBox_Checked(object sender, RoutedEventArgs e)
+        {
+            AlarmDatePicker.IsEnabled = true;
+        }
+
+        private void EnableDatePickerCheckBox_Unchecked(object sender, RoutedEventArgs e)
+        {
+            AlarmDatePicker.IsEnabled = false;
         }
     }
 }
